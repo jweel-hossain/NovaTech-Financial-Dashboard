@@ -54,7 +54,11 @@ Revenue CAGR =
 VAR FirstYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2025, REMOVEFILTERS('FinancialData'[Year]))
 VAR LastYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2029, REMOVEFILTERS('FinancialData'[Year]))
 RETURN (POWER(DIVIDE(LastYr, FirstYr, 0), 1.0/4) - 1) * 100
-Image link: ![Overview Dashboard](https://github.com/user-attachments/assets/022e724a-30fa-4ad0-8b6a-c2235468c759)
+Dashboard Preview section:
+![Overview Dashboard](https://github.com/user-attachments/assets/022e724a-30fa-4ad0-8b6a-c2235468c759)
+![Income Statement](https://github.com/user-attachments/assets/f2809733-2d86-43f1-b352-ce92767065e6)
+![Balance Sheet](https://github.com/user-attachments/assets/a8c10d9c-ef95-4e78-be3f-4b88921b7d9f)
+![Cash Flow](https://github.com/user-attachments/assets/25b83c8c-66b5-4edf-bb86-93949b43ab03)
 📈 Key Financial Insights
 Metric       2025      2029     Growth
 Revenue      642K      1.31M    +104%
