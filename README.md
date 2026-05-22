@@ -54,6 +54,7 @@ Revenue CAGR =
 VAR FirstYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2025, REMOVEFILTERS('FinancialData'[Year]))
 VAR LastYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2029, REMOVEFILTERS('FinancialData'[Year]))
 RETURN (POWER(DIVIDE(LastYr, FirstYr, 0), 1.0/4) - 1) * 100
+Image link: https://github.com/jweel-hossain/NovaTech-Financial-Dashboard/issues/new
 📈 Key Financial Insights
 Metric       2025      2029     Growth
 Revenue      642K      1.31M    +104%
@@ -74,11 +75,9 @@ Consistent Layout — same structure across all 4 pages
 ├── 📋 FinancialData.xlsx          # Raw Data Source
 └── 📄 README.md                   # Project Documentation
 🚀 How to Use
-
 Download Financial_Model.pbix
 Open with Power BI Desktop (free download from Microsoft)
 Use Year Slicer to filter by year
-Navigate between pages using page tabs
 👨‍💻 About Me
 I specialize in building interactive financial dashboards and data visualizations using Power BI and DAX. Available for freelance projects on Fiverr.https://www.fiverr.com/s/1qG4zq6
 ⭐ If you found this useful, please star the repository!
