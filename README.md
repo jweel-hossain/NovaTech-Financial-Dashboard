@@ -54,7 +54,7 @@ Revenue CAGR =
 VAR FirstYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2025, REMOVEFILTERS('FinancialData'[Year]))
 VAR LastYr = CALCULATE(SUM('FinancialData'[Value]), 'FinancialData'[Year] = 2029, REMOVEFILTERS('FinancialData'[Year]))
 RETURN (POWER(DIVIDE(LastYr, FirstYr, 0), 1.0/4) - 1) * 100
-Image link: https://github.com/jweel-hossain/NovaTech-Financial-Dashboard/issues/new
+Image link: ![Overview Dashboard](https://github.com/user-attachments/assets/022e724a-30fa-4ad0-8b6a-c2235468c759)
 📈 Key Financial Insights
 Metric       2025      2029     Growth
 Revenue      642K      1.31M    +104%
