@@ -83,5 +83,5 @@ Download Financial_Model.pbix
 Open with Power BI Desktop (free download from Microsoft)
 Use Year Slicer to filter by year
 👨‍💻 About Me
-I specialize in building interactive financial dashboards and data visualizations using Power BI and DAX. Available for freelance projects on Fiverr.https://www.fiverr.com/s/1qG4zq6
+I specialize in building interactive financial dashboards and data visualizations using Power BI and DAX. Available for freelance projects on Fiverr.[https://www.fiverr.com/s/1qG4zq6](https://www.fiverr.com/users/jweel_dataentry/manage_gigs/create-power-bi-dashboard-for-sales-profit-ecommerce-and-finance-analysis/edit)
 ⭐ If you found this useful, please star the repository!
