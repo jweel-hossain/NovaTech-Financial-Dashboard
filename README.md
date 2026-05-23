@@ -59,8 +59,6 @@ Dashboard Preview section:
 ![Income Statement](https://github.com/user-attachments/assets/f2809733-2d86-43f1-b352-ce92767065e6)
 ![Balance Sheet](https://github.com/user-attachments/assets/a8c10d9c-ef95-4e78-be3f-4b88921b7d9f)
 ![Cash Flow](https://github.com/user-attachments/assets/25b83c8c-66b5-4edf-bb86-93949b43ab03)
- 🎬 Dashboard Demo
-[![Watch Demo](https://github.com/user-attachments/assets/022e72
 📈 Key Financial Insights
 Metric       2025      2029     Growth
 Revenue      642K      1.31M    +104%
